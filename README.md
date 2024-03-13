@@ -1,21 +1,9 @@
 <h3>Hi 👋, I am</h3>
 <h1><a href="https://www.linkedin.com/in/dmitrii-semenov-885464293/" target="_blank">Dmitrii Semenov</h1>
-<h2>ℹ️ About me</h3>
+<img src="MyIcons/AboutMe.png"/>
 <h4>I am a passionate and driven software developer currently pursuing a degree in Computer Programming at Seneca Polytechnic. My journey in programming began at Moscow State Technology College, where I actively participated in various programming competitions and honed my skills. Notably, I reached the final round of the Moscow Programming Championship - Worldskills Russia 2021-2022 and emerged as the winner of the All-Russian contest Big Change 2021.</h4>
 <h2>⚒️ Languages</h2>
-  <table>
-  <tr style="border: none;">
-    <td><img src="MyIcons/IconC.png" width="100"/></td>
-    <td><img src="MyIcons/IconCPlus.png" width="100"/></td>
-    <td><img src="MyIcons/IconCSharp.png" width="100"/></td>
-    <td><img src="MyIcons/IconPython.png" width="100" /></td>
-    <td><img src="MyIcons/IconSQL.png" width="100"/></td>
-    <td><img src="MyIcons/IconJS.png" width="80" /></td>
-    <td><img src="MyIcons/IconHTML.png" width="80"/></td>
-    <td><img src="MyIcons/IconCSS.png" width="80"/></td>
-  </tr>
-</table>
-</ul>
+<img src="MyIcons/Languages.png"/>
 <h2>🏫 Education</h2>
 <article>
   <h3>Computer Programming at Seneca Polytechnic College (09/2023 – Current)</h3>
