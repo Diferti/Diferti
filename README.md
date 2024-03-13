@@ -4,7 +4,7 @@
 <h4>I am a passionate and driven software developer currently pursuing a degree in Computer Programming at Seneca Polytechnic. My journey in programming began at Moscow State Technology College, where I actively participated in various programming competitions and honed my skills. Notably, I reached the final round of the Moscow Programming Championship - Worldskills Russia 2021-2022 and emerged as the winner of the All-Russian contest Big Change 2021.</h4>
 <h2>⚒️ Languages</h2>
   <table>
-  <tr style="border-collapse: collapse;">
+  <tr style="border: none;">
     <td><img src="MyIcons/IconCPlus.png" width="100"/></td>
     <td><img src="MyIcons/IconCPlus.png" width="100"/></td>
     <td><img src="MyIcons/IconCSharp.png" width="100"/></td>
@@ -15,16 +15,6 @@
     <td><img src="MyIcons/IconCSS.png" width="80"/></td>
   </tr>
 </table>
-  <div style="padding-left: 20px;">
-  <img src="MyIcons/IconCPlus.png" width="100" height="100"/>
-  <img src="MyIcons/IconCPlus.png" width="100" height="100"/>
-  <img src="MyIcons/IconCSharp.png" width="100" height="100"/>
-  <img src="MyIcons/IconPython.png" width="100" height="100"/>
-  <img src="MyIcons/IconSQL.png" width="100" height="100"/>
-  <img src="MyIcons/IconJS.png" width="85" />
-  <img src="MyIcons/IconHTML.png" width="85"/>
-  <img src="MyIcons/IconCSS.png" width="85"/>
-  </div> 
 </ul>
 <h2>🏫 Education</h2>
 <article>
