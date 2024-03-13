@@ -5,11 +5,11 @@
 <h2>⚒️ Languages</h2>
   <table>
   <tr>
-    <td style="padding-left: 20px;"><img src="MyIcons/IconCPlus.png" width="100" height="100"/></td>
-    <td style="padding-left: 20px;"><img src="MyIcons/IconCPlus.png" width="100" height="100"/></td>
-    <td style="padding-left: 20px;"><img src="MyIcons/IconCSharp.png" width="100" height="100"/></td>
-    <td style="padding-left: 20px;"><img src="MyIcons/IconPython.png" width="100" height="100"/></td>
-    <td style="padding-left: 20px;"><img src="MyIcons/IconSQL.png" width="100" height="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconCPlus.png" width="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconCPlus.png" width="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconCSharp.png" width="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconPython.png" width="100" /></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconSQL.png" width="100"/></td>
     <td style="padding-left: 20px;"><img src="MyIcons/IconJS.png" width="85" /></td>
     <td style="padding-left: 20px;"><img src="MyIcons/IconHTML.png" width="85"/></td>
     <td style="padding-left: 20px;"><img src="MyIcons/IconCSS.png" width="85"/></td>
