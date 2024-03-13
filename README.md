@@ -3,27 +3,25 @@
 <h2>ℹ️ About me</h3>
 <h4>I am a passionate and driven software developer currently pursuing a degree in Computer Programming at Seneca Polytechnic. My journey in programming began at Moscow State Technology College, where I actively participated in various programming competitions and honed my skills. Notably, I reached the final round of the Moscow Programming Championship - Worldskills Russia 2021-2022 and emerged as the winner of the All-Russian contest Big Change 2021.</h4>
 <h2>⚒️ Languages</h2>
-<table>
-  <thead>
-    <tr>
-      <th><img src="MyIcons/IconC.png" width="100" height="100"/></th>
-      <th><img src="MyIcons/IconCPlus.png" width="100" height="100"/></th>
-      <th><img src="MyIcons/IconCSharp.png" width="100" height="100"/></th>
-      <th><img src="MyIcons/IconPython.png" width="100" height="100"/></th>
-      <th><img src="MyIcons/IconSQL.png" width="100" height="100"/></th>
-      <th><img src="MyIcons/IconJS.png" width="85"/></th>
-      <th><img src="MyIcons/IconHTML.png" width="85"/></th>
-      <th><img src="MyIcons/IconCSS.png" width="85"/></th>
-    </tr>
-  </thead>
+  <table>
+  <tr>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconCPlus.png" width="100" height="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconCPlus.png" width="100" height="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconCSharp.png" width="100" height="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconPython.png" width="100" height="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconSQL.png" width="100" height="100"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconJS.png" width="85" /></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconHTML.png" width="85"/></td>
+    <td style="padding-left: 20px;"><img src="MyIcons/IconCSS.png" width="85"/></td>
+  </tr>
 </table>
-  <div>
+  <div style="padding-left: 20px;">
   <img src="MyIcons/IconCPlus.png" width="100" height="100"/>
   <img src="MyIcons/IconCPlus.png" width="100" height="100"/>
   <img src="MyIcons/IconCSharp.png" width="100" height="100"/>
   <img src="MyIcons/IconPython.png" width="100" height="100"/>
   <img src="MyIcons/IconSQL.png" width="100" height="100"/>
-  <img src="MyIcons/IconJS.png" width="85" style="padding-left: 20px;"/>
+  <img src="MyIcons/IconJS.png" width="85" />
   <img src="MyIcons/IconHTML.png" width="85"/>
   <img src="MyIcons/IconCSS.png" width="85"/>
   </div> 
