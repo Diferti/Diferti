@@ -3,16 +3,9 @@
 <h2>ℹ️ About me</h3>
 <h4>I am a passionate and driven software developer currently pursuing a degree in Computer Programming at Seneca Polytechnic. My journey in programming began at Moscow State Technology College, where I actively participated in various programming competitions and honed my skills. Notably, I reached the final round of the Moscow Programming Championship - Worldskills Russia 2021-2022 and emerged as the winner of the All-Russian contest Big Change 2021.</h4>
 <h2>⚒️ Languages</h2>
-<ul>
-  <li>C</li>
-  <li>C++</li>
-  <li>C#</li>
-  <li>XAML</li>
-  <li>Python</li>
-  <li>SQL</li>
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
+<div>
+  <img src=""/>
+</div>
 </ul>
 <h2>🏫 Education</h2>
 <article>
