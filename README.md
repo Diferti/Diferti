@@ -1,6 +1,7 @@
-### Hi 👋, I am
-# Dmitrii Semenov
-
+<h3>Hi 👋, I am</h3>
+<h1><a href="https://www.linkedin.com/in/dmitrii-semenov-885464293/" target="_blank">Dmitrii Semenov</h1>
+## About me
+### I am a passionate and driven software developer currently pursuing a degree in Computer Programming at Seneca Polytechnic. My journey in programming began at Moscow State Technology College, where I actively participated in various programming competitions and honed my skills. Notably, I reached the final round of the Moscow Programming Championship - Worldskills Russia 2021-2022 and emerged as the winner of the All-Russian contest Big Change 2021.
 <!--
 **Diferti/Diferti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
