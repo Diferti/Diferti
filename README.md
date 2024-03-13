@@ -5,7 +5,7 @@
 <h2>⚒️ Languages</h2>
   <table>
   <tr style="border: none;">
-    <td><img src="MyIcons/IconCPlus.png" width="100"/></td>
+    <td><img src="MyIcons/IconC.png" width="100"/></td>
     <td><img src="MyIcons/IconCPlus.png" width="100"/></td>
     <td><img src="MyIcons/IconCSharp.png" width="100"/></td>
     <td><img src="MyIcons/IconPython.png" width="100" /></td>
